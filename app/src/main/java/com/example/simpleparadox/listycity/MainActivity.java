@@ -12,7 +12,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
-
+        
+    // Test that needs to be implemented!!
+    public int equalsTwo() {
+        return 2;
+    }
+    
     // Declare the variables so that you will be able to reference it later.
     ListView cityList;
     ArrayAdapter<City> cityAdapter;
