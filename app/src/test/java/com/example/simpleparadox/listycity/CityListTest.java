@@ -10,7 +10,7 @@ class CityListTest {
     @Test
     void LabExerciseTest() {
         CityList cityList = new CityList();
-        assertEquals(1, cityList.equalsTwo());
+        assertEquals(2, cityList.equalsTwo());
     }
     
     private CityList mockCityList() {
