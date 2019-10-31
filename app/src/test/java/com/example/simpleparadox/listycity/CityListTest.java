@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @Test
 void  failTest()
-    assertEquals(1, equalsTwo());
+    assertEquals(2, equalsTwo());
 }
 
 class CityListTest {
